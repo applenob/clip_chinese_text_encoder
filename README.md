@@ -5,7 +5,7 @@ CLIP Chinese Text Encoder：本项目适配了Open AI的CLIP `ViT-B/32` 模型�
 ## 使用
 
 - 将本项目clone至本地。
-- 通过链接下载模型参数文件`clip_zh.mse.pt`和开源数据`unsplash-dataset`至目录`dataset`。
+- 通过链接下载模型参数文件`clip_zh.mse.pt`和开源数据`unsplash-dataset`至目录`data`。
     - 链接：https://pan.baidu.com/s/1YKk3h6N-Sg2JmkuIxMD6Pg 提取码：0v9u 
 - 安装依赖：`pip install -r requirements.txt`
 - 使用：在本地启动`jupyter notebook`，打开`notebooks`目录下的笔记本体验。
